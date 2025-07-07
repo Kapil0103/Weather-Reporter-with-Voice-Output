@@ -1,9 +1,4 @@
 # Weather-Reporter-with-Voice-Output
-A Python script that fetches the current weather of any city using WeatherAPI and announces it using text-to-speech (TTS).
-
-Here’s a **GitHub-ready content (README + description)** for your **Weather Reporter with Voice Output** project based on the code you shared.
-
----
 
 ### 📋 Short Description
 
